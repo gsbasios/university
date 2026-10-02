@@ -1,4 +1,4 @@
-# CASE++ COMPILER - version 1.0 : Intermediate Code
+# CASE++ COMPILER - version 3.0 : Complete Compiler 
 
 ## SYSTEM REQUIREMENTS
 - Python 3+
